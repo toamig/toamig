@@ -2,7 +2,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=toamig&theme=radical&count_private=true&show_icons=true" />
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toamig&layout=compact)](https://github.com/toamig/github-readme-stats)
 <!--
 **toamig/toamig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
