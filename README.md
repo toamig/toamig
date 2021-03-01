@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=toamig&theme=radical&count_private=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=toamig&theme=radical&count_private=true&show_icons=true" />
 
 
 <!--
