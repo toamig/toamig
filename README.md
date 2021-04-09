@@ -12,6 +12,8 @@
 - 🎮 Video game enthusiast
 - ⚜️ Fun fact: I used to be a scout
 
+### My stats
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toamig&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toamig&layout=compact)
