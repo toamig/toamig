@@ -5,7 +5,7 @@
 
 ### About Me
 
-- 🥽 I’m currently working VR and HCI projects/games
+- 🥽 I’m currently working AR and HCI projects/games
 - 👯 I’m looking to collaborate on game development projects
 - 📫 How to reach me: "toamig" on any social network
 - 🎮 Video game enthusiast
