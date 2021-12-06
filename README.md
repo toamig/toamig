@@ -5,11 +5,11 @@
 
 ### About Me
 
-- 🚀 I’m currently working on an educative rocket simulator
-- 🌱 I’m currently learning unity
+- 🥽 I’m currently working VR and HCI projects/games
 - 👯 I’m looking to collaborate on game development projects
 - 📫 How to reach me: "toamig" on any social network
 - 🎮 Video game enthusiast
+- 🚀 Last project: educative rocket simulator
 - ⚜️ Fun fact: I used to be a scout
 
 ### My Stats
