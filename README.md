@@ -5,8 +5,8 @@
 
 ### About Me
 
-- 🥽 I’m currently working on my dissertation regarding procedural content generation in games
-- 👯 I’m looking to collaborate on game development projects
+- 🥽 I’m currently working as a tools lead programmer @SaberInteractivePorto
+- 👯 I’m looking to learn more about unreal engine, editor and procedural tools
 - 📫 How to reach me: "toamig" on any social network
 - 🎮 Video game development enthusiast
 - 🚀 Last project: educative rocket building/launching simulator
