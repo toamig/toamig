@@ -1,23 +1,25 @@
+<div align="center">
 
-<!-- **toamig/toamig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+# Miguel Vieira
 
-## Welcome to Toamig's 👋
+Unreal Engine 5 engineer and tech lead. Currently building for AAA partner studios at Side, and directing engineering on *Timefront* at Flama Craftworks.
 
-### About Me
+[toamig.com](https://toamig.com) · [LinkedIn](https://linkedin.com/in/toamig) · [itch.io](https://toamig.itch.io)
 
-- 🥽 I’m currently working as a tools lead programmer @SaberInteractivePorto
-- 👯 I’m looking to learn more about unreal engine, editor and procedural tools
-- 📫 How to reach me: "toamig" on any social network
-- 🎮 Video game development enthusiast
-- 🚀 Last project: educative rocket building/launching simulator
-- ⚜️ Fun fact: I used to be a scout
+</div>
 
-### My Stats
+---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toamig&count_private=true&theme=react)
+Five years across studios, shipped **Dakar Desert Rally** (Saber Interactive, PC/PS4/PS5/Xbox). Now building a line of modular UE5 plugins in public.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toamig&layout=compact&theme=react)
+### Plugins
 
-### Most Recent Project
+- [WorldSweep](https://www.fab.com/listings/e261db00-7d71-40c8-b668-b8a5a59c2f54) — batch scripting for World Partition, streaming levels, and flat maps · live on Fab
+- [Cascade Combat System](https://toamig.com/Plugins/CascadeCombatSystem) — branching combo trees on GAS
+- [PlayLink](https://toamig.com/Plugins/PlayLink) — OSS-agnostic multiplayer social layer
+- [GearFlow](https://toamig.com/Plugins/GearFlow) — fragment-based inventory and crafting
+- [StoryGraph](https://toamig.com/Plugins/StoryGraph) — modular dialog and quest system
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=toamig&repo=Augmented-Tower-Defense&theme=react)
+Full CV and project history at [toamig.com](https://toamig.com).
+
+📫 carlosmiguelvieira@hotmail.com
